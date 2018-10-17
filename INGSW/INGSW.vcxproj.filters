@@ -27,5 +27,22 @@
     <ClInclude Include="Circle.h">
       <Filter>File di origine</Filter>
     </ClInclude>
+    <ClInclude Include="ShapeCreator.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleShape.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleShape.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleShape.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>File di risorse</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
