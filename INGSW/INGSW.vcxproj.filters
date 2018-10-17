@@ -14,4 +14,18 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AbstractPrinter.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>File di origine</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
