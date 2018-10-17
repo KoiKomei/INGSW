@@ -3,7 +3,7 @@
 #define BARGRAPH_H
 #include "GraphCreator.h"
 #include "Bar.h"
-class BarGraph {
+class BarGraph: public GraphCreator {
 public:
 	Graph *CreateGraph() {
 		return new Bar;

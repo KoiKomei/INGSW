@@ -5,7 +5,10 @@
 
 class Histogram :public Graph {
 
-	void print() { cout << "test 3"; }
+	void print() { 
+		cout << "Non so stampare un istogramma verticale";
+	
+	}
 
 };
 
