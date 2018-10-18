@@ -7,6 +7,8 @@
 
 
 class PiGraph :public GraphCreator {
+
+public:
 	Graph *CreateGraph() {
 		return new FilledPi;
 	}

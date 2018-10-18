@@ -6,9 +6,14 @@
 #include "Histogram.h"
 
 class HistogramGraph :public GraphCreator {
+
+
+public:
 	Graph *CreateGraph() {
 		return new Histogram;
 	}
+
+
 
 };
 

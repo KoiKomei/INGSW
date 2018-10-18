@@ -12,5 +12,7 @@ int main() {
 	(*graph).print();
 	delete creator;
 
-
+	//GraphCreator *create
+	
+	return 0;
 }
