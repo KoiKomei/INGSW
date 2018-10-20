@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INGSW", "INGSW\INGSW.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphs", "Graphs\Graphs.vcxproj", "{BF6D8BF1-DF55-4275-8830-0130943AD00D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "Prototype\Prototype.vcxproj", "{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BF6D8BF1-DF55-4275-8830-0130943AD00D}.Release|x64.Build.0 = Release|x64
 		{BF6D8BF1-DF55-4275-8830-0130943AD00D}.Release|x86.ActiveCfg = Release|Win32
 		{BF6D8BF1-DF55-4275-8830-0130943AD00D}.Release|x86.Build.0 = Release|Win32
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Debug|x64.ActiveCfg = Debug|x64
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Debug|x64.Build.0 = Debug|x64
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Debug|x86.Build.0 = Debug|Win32
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Release|x64.ActiveCfg = Release|x64
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Release|x64.Build.0 = Release|x64
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Release|x86.ActiveCfg = Release|Win32
+		{406E9FF6-D1C9-4016-8352-D7E920AE1D3B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
