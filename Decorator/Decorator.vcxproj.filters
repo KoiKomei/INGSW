@@ -15,16 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TimeImp.h">
+    <ClInclude Include="Widget.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="CivTimeImp.h">
+    <ClInclude Include="TextField.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="Time.h">
+    <ClInclude Include="Decorator.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="CivTime.h">
+    <ClInclude Include="Scrolldecorator.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Borderdecorator.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>

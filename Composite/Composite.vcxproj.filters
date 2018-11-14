@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TimeImp.h">
+    <ClInclude Include="Component.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="CivTimeImp.h">
+    <ClInclude Include="Leaf.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="Time.h">
-      <Filter>File di intestazione</Filter>
-    </ClInclude>
-    <ClInclude Include="CivTime.h">
+    <ClInclude Include="Composite.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>

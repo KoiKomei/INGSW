@@ -8,13 +8,14 @@ using namespace std;
 class TimeImp {
 
 public:
+	TimeImp() {};
 	TimeImp(int min, int hr) {
 		_min = min;
 		_hr = hr;
 	}
 
 	virtual void print() {
-		cout << "Time is " << setw(2) << setfill(48) << _hr << ":" << _min << endl;
+		cout << "Time is " << _hr << ":" << _min << endl;
 	}
 
 protected:

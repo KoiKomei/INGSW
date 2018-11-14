@@ -15,20 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TimeImp.h">
+    <ClInclude Include="Icon.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="CivTimeImp.h">
+    <ClInclude Include="FlyweightFactory.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="Time.h">
+    <ClInclude Include="Dialogbox.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="CivTime.h">
+    <ClInclude Include="FileSelection.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="CommitTransiction.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FlyweightFactory.cpp">
+      <Filter>File di risorse</Filter>
+    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>File di risorse</Filter>
     </ClCompile>

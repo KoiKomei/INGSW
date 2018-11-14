@@ -9,10 +9,10 @@ class CivTimeImp :public TimeImp {
 public:
 	CivTimeImp(int hr, int min, int pm):TimeImp(min, hr){
 		if (pm == 1) {
-			strcpy(_M, "PM");
+			strcpy_s(_M, " PM");
 		}
 		else {
-			strcpy(_M, "AM");
+			strcpy_s(_M, " AM");
 		}
 	}
 
